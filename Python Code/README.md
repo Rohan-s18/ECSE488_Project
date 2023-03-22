@@ -1,3 +1,3 @@
 # Python Code
-## Author: Rohan Singh
+## Author: Jacob Salmon and Rohan Singh
 This directory contains the Python Source code for our course project.
